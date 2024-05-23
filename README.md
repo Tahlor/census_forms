@@ -3,7 +3,7 @@ Download the dataset: [FrenchCensus.tar.gz](https://axon.cs.byu.edu/s3/census/fr
 Segmentation dataset: [FrenchCensus.tar.gz](https://axon.cs.byu.edu/s3/census/french_census_591_segmentation.tar.gz)
 
 ![Input](https://axon.cs.byu.edu/s3/census/french_census_591/C_7/62117_b1020942-00042.jpg)
-![Segmentation](https://axon.cs.byu.edu/s3/census/french_census_591_segmentation/C_7/62117_b1020942-00042.jpg)
+![Segmentation](https://axon.cs.byu.edu/s3/census/french_census_591_segmentation/C_7/62117_b1020942-00042.png)
 
 # U.S. 1950 Census Data
 Download the dataset: [US1950.tar.gz](https://axon.cs.byu.edu/s3/census/1950s_census_441.tar.gz)
